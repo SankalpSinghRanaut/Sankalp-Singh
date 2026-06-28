@@ -3,10 +3,7 @@
 
 <div align="center">
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1100&color=29B6F6&center=true&vCenter=true&random=false&width=780&lines=📊+Data+Analyst+%7C+SQL+·+Power+BI+·+Python;🔍+Diagnosing+Revenue+Leakage+%26+Churn+Exposure;💡+Translating+Raw+Data+into+Business+Decisions;📈+Building+Dashboards+that+Move+the+Revenue+Needle" alt="Typing SVG" />
 
-<br/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-singh-ranaut/)
