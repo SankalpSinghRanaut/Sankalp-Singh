@@ -8,7 +8,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sankalp-singh-ranaut/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://sankalpsinghranaut.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.sankalp07@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:connect.sankalpsingh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sankalpsinghranaut)
 ![Profile Views](https://komarev.com/ghpvc/?username=sankalpsinghranaut&style=for-the-badge&color=0e75b6)
 
@@ -243,7 +243,7 @@ Led data analysis for a real-time **Disaster Relief Management** system competin
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:connect.sankalp07@gmail.com">
+<a href="mailto:connect.sankalpsingh@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
