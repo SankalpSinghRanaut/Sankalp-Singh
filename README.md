@@ -49,23 +49,6 @@
 
 <!-- ════════════════════════════════════ ANALYTICAL IMPACT ══════════════════════════════════════ -->
 
-## ⚡ Analytical Impact at a Glance
-
-<div align="center">
-
-| 🔢 Metric | 📌 Insight | 📁 Project |
-|:---------:|:----------:|:-----------:|
-| **22%** Cancellation Rate | Diagnosed via window-function SQL on 10,000+ records | Revenue Intelligence |
-| **21.1%** Unprofitable Orders | Identified from USD 2.3M+ revenue audit | Inventory Analysis |
-| **−USD 17,700** in losses | Tables category with 42.8% discount rate | Inventory Analysis |
-| **USD 4,000–6,000** Recovery | Projected via dynamic pricing model | Inventory Analysis |
-| **15–20%** Churn Reduction | Benchmarked via CLV-based segmentation | Revenue Intelligence |
-| **80%+** One-Time Buyers | Surfaced critical retention gap | Inventory Analysis |
-
-</div>
-
-<br/>
-
 <!-- ═══════════════════════════════════════ TECH STACK ══════════════════════════════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
@@ -280,7 +263,7 @@ Led data analysis for a real-time **Disaster Relief Management** system competin
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=29B6F6&center=true&vCenter=true&random=false&width=500&lines=📬+Open+to+Data+Analyst+Opportunities+%7C+Open+to+Relocation;💬+Let's+connect+and+talk+data!" alt="Connect Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2000&color=29B6F6&center=true&vCenter=true&random=false&width=560&lines=Open+to+Data+Analyst+Opportunities+%7C+Open+to+Relocation;Let%27s+connect+and+talk+data!" alt="Connect Typing"/>
 
 </div>
 
