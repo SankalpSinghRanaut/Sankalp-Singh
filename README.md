@@ -97,13 +97,7 @@
 
 ## 📂 Featured Projects
 
-<br/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=2000&color=4FC3F7&center=true&vCenter=true&random=false&width=600&lines=🚀+Quantifying+problems+%7C+Translating+findings+%7C+Driving+revenue" alt="Projects Tagline"/>
-</div>
-
-<br/>
 
 ---
 
@@ -137,7 +131,6 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
